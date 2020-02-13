@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://atkgc2019wxd.github.io/"/>
-  <updated>2020-02-12T12:33:53.350Z</updated>
+  <updated>2020-02-13T06:20:59.949Z</updated>
   <id>https://atkgc2019wxd.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://atkgc2019wxd.github.io/2020/02/12/my-first-blog/"/>
     <id>https://atkgc2019wxd.github.io/2020/02/12/my-first-blog/</id>
     <published>2020-02-12T12:27:29.000Z</published>
-    <updated>2020-02-12T12:33:53.350Z</updated>
+    <updated>2020-02-13T06:20:59.949Z</updated>
     
     <summary type="html">
     
@@ -38,6 +38,12 @@
     </summary>
     
     
+      <category term="Markdown" scheme="https://atkgc2019wxd.github.io/categories/Markdown/"/>
+    
+    
+      <category term="java" scheme="https://atkgc2019wxd.github.io/tags/java/"/>
+    
+      <category term="note" scheme="https://atkgc2019wxd.github.io/tags/note/"/>
     
   </entry>
   
