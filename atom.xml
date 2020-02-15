@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://atkgc2019wxd.github.io/"/>
-  <updated>2020-02-13T06:20:59.949Z</updated>
+  <updated>2020-02-15T12:25:32.355Z</updated>
   <id>https://atkgc2019wxd.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>write article</title>
+    <link href="https://atkgc2019wxd.github.io/2020/02/15/write-article/"/>
+    <id>https://atkgc2019wxd.github.io/2020/02/15/write-article/</id>
+    <published>2020-02-15T11:49:15.000Z</published>
+    <updated>2020-02-15T12:25:32.355Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;public void main(){
+
+    System.out.pintln(&amp;quot;hello
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="java" scheme="https://atkgc2019wxd.github.io/tags/java/"/>
+    
+      <category term="java se" scheme="https://atkgc2019wxd.github.io/tags/java-se/"/>
+    
+  </entry>
   
   <entry>
     <title>my first blog...</title>
